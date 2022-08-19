@@ -45,10 +45,10 @@
 | 35. | [Game Theory Initiative](https://www.ub.edu/web/ub/en/recerca_innovacio/recerca_a_la_UB/grups/fitxa/T/ADI12345/index.html?) | University of Barcelona | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
 | 36. | [Harvard Summer Venture Capital Management](https://www.hbs.edu/svmp/Pages/default.aspx) |  | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
 | 37. | [Game Theory Initiative](https://www.cse.iitb.ac.in/~swaprava/research.html) |  | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
-| 38. | [Game Theory Initiative]((https://hss.iitd.ac.in/faculty/saptarshi-mukherjee)) |  | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
-| 39. | [Game Theory Initiative]((https://hss.iitd.ac.in/faculty/debasis-mondal)) |  | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
-| 40. | [Game Theory Initiative]((https://hss.iitd.ac.in/faculty/debasis-mondal)) |  | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
-| 40. | [Game Theory Initiative](https://sites.google.com/site/vikassinghiitd/home) |  | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
+| 38. | [Game Theory Initiative](https://hss.iitd.ac.in/faculty/saptarshi-mukherjee) |  | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
+| 39. | [Game Theory Initiative](https://hss.iitd.ac.in/faculty/debasis-mondal) |  | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
+| 40. | [Game Theory Initiative](https://hss.iitd.ac.in/faculty/debasis-mondal) |  | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
+| 41. | [Game Theory Initiative](https://sites.google.com/site/vikassinghiitd/home) |  | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
 
 
 # Conferences

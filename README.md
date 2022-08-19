@@ -43,7 +43,9 @@
 | 33. | [Summer Geometry Initiative](http://sgi.mit.edu/) | MIT | NA | 15th February | - Resume and  cover letter </br> - One reference letter (optional) and academic transcripts | Try to apply |
 | 34. | [Game Theory Initiative](https://ideas.repec.org/top/old/1804/top.gth.html) |  | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
 | 35. | [Game Theory Initiative](https://www.ub.edu/web/ub/en/recerca_innovacio/recerca_a_la_UB/grups/fitxa/T/ADI12345/index.html?) | University of Barcelona | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
-| 35. | [Harvard Summer Venture Capital Management](https://www.hbs.edu/svmp/Pages/default.aspx) |  | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
+| 36. | [Harvard Summer Venture Capital Management](https://www.hbs.edu/svmp/Pages/default.aspx) |  | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
+| 37. | [Game Theory Initiative](https://www.cse.iitb.ac.in/~swaprava/research.html) |  | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
+
 # Conferences
 | Serial Number | Name | Language/Framework | Proposal deadline | Applying status |
 | ------------- |----- | ------------------ | ----------------- | --------------- |

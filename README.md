@@ -49,7 +49,7 @@
 | 39. | [Game Theory Initiative](https://hss.iitd.ac.in/faculty/debasis-mondal) |  | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
 | 40. | [Game Theory Initiative](https://hss.iitd.ac.in/faculty/debasis-mondal) |  | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
 | 41. | [Game Theory Initiative](https://sites.google.com/site/vikassinghiitd/home) |  | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
-
+| 41. | [Game Theory Initiative](https://sites.google.com/view/ruhisonal/home) |  | NA |  | -  </br> - One reference letter (optional) and academic transcripts | Try to apply |
 
 # Conferences
 | Serial Number | Name | Language/Framework | Proposal deadline | Applying status |

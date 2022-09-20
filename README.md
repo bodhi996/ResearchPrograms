@@ -59,6 +59,19 @@
 | 39. | [Undergraduate Summer Research Fellowship Programme](https://home.iitd.ac.in/show.php?id=160&in_sections=News/) | IIT Delhi | Any undergraduate student, except student of IITs, who has completed at least 2 years of study towards an engineering degree and is amongst top ten positions in her/his respective programme will be eligible to apply for this fellowship. | 29th March | Keep checking | Apply next year |
 | 40. | [Internship at Quansight](https://www.quansight.com/careers/) | Quansight | NA | Keep checking | - CV, cover letter | - Applied <br> - Invited for first interview <br> - Rejected |
 | 41. | [Open Life Science program](https://openlifesci.org/ols-6/) | Open Life Science | NA | Keep checking | - A project idea or open-source contributions to scientific projects | - Apply next year |
+| 42. | [Columbia Business School]([https://openlifesci.org/ols-6/](https://academics.gsb.columbia.edu/predoctoral-research/summer-research-internship)) | summerintern@gsb.columbia.edu | March 1st(Rolling basis) | Nov 2022 | - A project idea or open-source contributions to scientific projects | - Apply next year |
+| 43. | [Standford STEM School](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/summer) |  | NA | Nov 2022 | - A project idea or open-source contributions to scientific projects | - Apply next year |
+| 43. | [Oppurtunity List](https://www.rochester.edu/college/ugresearch/opportunities/summer-international-students.html) |  | NA | Nov 2022 | - A project idea or open-source contributions to scientific projects | - Apply next year |
+| 43. | [Amgen Asia](https://amgenscholars.com/asia-program) |  | NA | 1st March | - A project idea or open-source contributions to scientific projects | - Apply next year |
+| 43. | [Cognitive stuff in UCB](https://www.babylab.berkeley.edu/summer-internship) |  | NA | Nov 2022 | - A project idea or open-source contributions to scientific projects | - Apply next year |
+| 43. | [Aukland ](https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/undergraduate-scholarships/summer-research-scholarships/how-to-apply.html) |  | NA | August | - A project idea or open-source contributions to scientific projects | - Apply next year |
+| 43. | [OECD](https://www.oecd.org/careers/internship-programme/) |  | NA | All through the year | - A project idea or open-source contributions to scientific projects | - Apply next year |
+| 43. | [Nestlel](https://jobdetails.nestle.com/job/SHAH-ALAM-SAC-Nestle-Internship-Programme-2022-40000/788235501/) |  | NA | Nov 2022 | - A project idea or open-source contributions to scientific projects | - Apply next year |
+| 43. | [Standford STEM School]() |  | NA | Nov 2022 | - A project idea or open-source contributions to scientific projects | - Apply next year |
+| 43. | [Standford STEM School]() |  | NA | Nov 2022 | - A project idea or open-source contributions to scientific projects | - Apply next year |
+| 43. | [Standford STEM School]() |  | NA | Nov 2022 | - A project idea or open-source contributions to scientific projects | - Apply next year |
+
+
 # Conferences
 | Serial Number | Name | Language/Framework | Proposal deadline | Applying status |
 | ------------- |----- | ------------------ | ----------------- | --------------- |

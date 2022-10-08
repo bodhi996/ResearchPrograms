@@ -67,7 +67,7 @@
 | 43. | [Aukland ](https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/undergraduate-scholarships/summer-research-scholarships/how-to-apply.html) |  | NA | August | - A project idea or open-source contributions to scientific projects | - Apply next year |
 | 43. | [OECD](https://www.oecd.org/careers/internship-programme/) |  | NA | All through the year | - A project idea or open-source contributions to scientific projects | - Apply next year |
 | 43. | [Nestlel](https://jobdetails.nestle.com/job/SHAH-ALAM-SAC-Nestle-Internship-Programme-2022-40000/788235501/) |  | NA | Nov 2022 | - A project idea or open-source contributions to scientific projects | - Apply next year |
-| 43. | [Standford STEM School]() |  | NA | Nov 2022 | - A project idea or open-source contributions to scientific projects | - Apply next year |
+| 43. | [Harvard](https://www.hbs.edu/global/Pages/interns.aspx) |  | NA | 18th Feb | - A project idea or open-source contributions to scientific projects | - Apply next year |
 | 43. | [Standford STEM School]() |  | NA | Nov 2022 | - A project idea or open-source contributions to scientific projects | - Apply next year |
 | 43. | [Standford STEM School]() |  | NA | Nov 2022 | - A project idea or open-source contributions to scientific projects | - Apply next year |
 
